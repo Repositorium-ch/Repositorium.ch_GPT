@@ -30,6 +30,8 @@ Beispiel eines SUCCESS: Antwort, wofür mindestens eine Suche (idealerweise auch
 ```
 
 ## OpenAPI Schema
+Die Suche vom Repositoriumm.ch läuft über [Katie](https://katie.qa), ebenfalls open-source auf [GitHub](https://github.com/wyona/katie-backend)
+
 ```json
 {
   "openapi": "3.0.0",
