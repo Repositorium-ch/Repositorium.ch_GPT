@@ -34,7 +34,7 @@ Die Suche vom Repositoriumm.ch läuft über [Katie](https://katie.qa), ebenfalls
 
 ```json
 {
-  "openapi": "3.0.0",
+  "openapi": "3.1.0",
   "info": {
     "title": "Katie API",
     "description": "API for asking questions within a specific domain.",
